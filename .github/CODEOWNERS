@@ -1,0 +1,6 @@
+# Documentation
+# https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# These owners will be the default owners for everything in
+*       @LoyaltyOne/teamgoat-fe-admins
+*       @LoyaltyOne/teamgoat-fe-users
