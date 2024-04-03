@@ -1,6 +1,0 @@
-{
-  "mobile.resourceTypes": [
-    "aem-airmiles-web/components/structure/page"
-  ],
-  "README": "Indicate which page resource types should display the mobile emulators."
-}
